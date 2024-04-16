@@ -1,0 +1,34 @@
+# Weather API
+
+## Description
+
+This application harbors a space for notes to be taken, saved, and deleted when needed. It facilitates a greater ease in noting down things that need to be remembered in an easy-to-navigate design and straight-forward functionality. I have learned much about GET and POST requests in this project as well as to better integrate Express.js backend together with the frontend.
+
+## Installation
+
+N/A
+
+## Usage
+
+![alt text]("assets\Screenshot 2024-04-16 083555.png")
+First, go to the command line and enter 'npm start' which will open the 3000 port and run the application.
+![alt text]("assets\Screenshot 2024-04-16 083609.png")
+It will open up to the Note-Taker landing page, press 'start' to write notes.
+![alt text]("assets\Screenshot 2024-04-16 083620.png")
+After pressing start, you will be taken to a screen with saved notes to the left and ability to write notes on the right. Note the trashcan icon on the exisiting test note.
+![alt text]("assets\Screenshot 2024-04-16 083644.png")
+Start by writing a title for the note down, the 'clear' button will appear on the top right-hand side of the screen.
+![alt text]("assets\Screenshot 2024-04-16 083752.png")
+The 'save button' appears after writing text in the body of the note.
+![alt text]("assets\Screenshot 2024-04-16 083801.png")
+The newly written note should save on the left-hand side of the screen under the test note.
+![alt text]("assets\Screenshot 2024-04-16 083816.png")
+If you press on the trashcan icon next to the newly created note, the note is able to be deleted. 
+
+## Credits
+
+I credit this work to my tutor Andrew Hardemon for helping me through helping me figure out the logic and how the routes work together with the database. Karina also was tremendously helpful in helping me learn how to think through connecting routes and getting it to run more effectively. The T.A. Robert Johnson also assisted in troubleshooting bugs and thinking through the logic of the code itself. Really, it takes a village. I have learned so much from these different mentors and teachers, it gives me a bit more confidence to go do some deeper dive self-study to be more self-sufficient. 
+
+## License
+
+Please refer to the LICENSE in the repo.
